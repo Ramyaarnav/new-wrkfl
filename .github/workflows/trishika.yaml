@@ -2,7 +2,7 @@ name: test Branch CI
 on: 
   push:
     branches:
-      - 'main'
+      - 'new-feature'
 jobs:
   build:
     runs-on: ubuntu-latest
